@@ -1,0 +1,31 @@
+h2, th {
+	color: #007bff;
+}
+header {
+	position: fixed;
+	top:0px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	padding: 1%;
+	background-color: #000000;
+	z-index:10;
+   
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+#content {
+  padding: 16px;
+}
+#top{
+	padding-top: 120px
+}
