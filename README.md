@@ -1,6 +1,6 @@
 # Portfolio Page using bootstrap.
 
-* **Author**: [DENIS KISINA.[]
+* **Author**: DENIS KISINA
 * **Link**: [Github].[]
 
 ## Description
