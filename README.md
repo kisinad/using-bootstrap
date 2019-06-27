@@ -1,14 +1,14 @@
 # Portfolio Page using bootstrap.
 
-* **Author**: [DENIS KISINA][]
-* **Link**: [Github][]
+* **Author**: [DENIS KISINA.[]
+* **Link**: [Github].[]
 
 ## Description
 
 This is a Portfolio page containing Denis Kisina's Work experience, Skills and Education.
 
-### Copyright symbol ###
+## License
 
-	copyright_symbol=""
-	
-Sets the copyright symbol. Default - the "&copy;" symbol
+Copyright is free for personal and commercial use.
+
+2019 &copy;
